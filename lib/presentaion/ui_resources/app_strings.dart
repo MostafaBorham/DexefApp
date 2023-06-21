@@ -1,0 +1,31 @@
+abstract class AppStrings {
+  static const String appName = 'Dexef App';
+  static const String cashTransactionsTitle = 'Cash Transactions';
+  static const String companyName = 'ELHamad Company';
+  static const String login = 'LOG IN';
+  static const String demoVersion = 'Demo Version';
+  static const String loginTitle = 'User Login';
+  static const String demoVersionTip = 'Demo Version .You Can Browse Our Dummy Data .';
+  static const String haveGoodDayTip = 'To Have A Good Day';
+  static const String barPercentage = '38%';
+  static const String salesInvoice = 'Sales Invoice';
+  static const String cashAvailTitle1 = 'Cash';
+  static const String cashAvailTitle2 = 'Available';
+  static const String barTitle = 'Sales Amount';
+  static const String barSubTitle = ' (Compared by reviouse month)';
+  static const String welcomeMessage = 'Welcome User,';
+  static const String privilegeIDMessage = 'Your PrivilegeID : ';
+  static const String branchIDMessage = 'Your BranchID : ';
+  static const String ipHintText = 'IP';
+  static const String homeLabel = 'Home';
+  static const String transactionsLabel = 'Transactions';
+  static const String reportsLabel = 'Reports';
+  static const String listsLabel = 'Lists';
+  static const String searchLabel = 'Search';
+  static const String passwordHintText = 'Password';
+  static const String databaseHintText = 'Database';
+  static const String userNameHintText = 'User Name';
+  static const String rememberPassword = 'Remember Password';
+  static const String offlineError = 'No Internet Connection';
+  static const String serverError = 'Oops! Something went wrong';
+  }

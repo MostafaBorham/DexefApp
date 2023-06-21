@@ -1,0 +1,54 @@
+name: dexef_task
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0-146.2.beta <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  equatable:
+  dartz:
+  auto_size_text:
+  dio:
+  internet_connection_checker:
+  get_it:
+  bloc:
+  bloc_provider:
+  flutter_bloc:
+  flutter_svg:
+  percent_indicator:
+  syncfusion_flutter_charts:
+  flutter_charts:
+  charts_flutter:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+
+  assets:
+    - assets/images/svgs/
+    - assets/images/pngs/
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #         weight: 700
