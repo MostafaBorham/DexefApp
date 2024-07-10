@@ -1,6 +1,6 @@
 # dexef_task
 
-A new Flutter project.
+is designed for working in dexef company
 
 ## Getting Started
 
